@@ -1,0 +1,73 @@
+{
+    "boarding": {
+        "list": [{
+            "id": 0,
+            "airlineCode": "SG",
+            "airline": "air",
+            "name": "Spice E6-184",
+            "price": 3953,
+            "departs": 1314924180000,
+            "arrives": 1314930780000
+        }, {
+            "id": 1,
+            "airlineCode": "IT",
+            "airline": "kf",
+            "name": "KF Red E6-184",
+            "price": 2819,
+            "departs": 1314938580000,
+            "arrives": 1314942180000
+        }, {
+            "id": 2,
+            "airlineCode": "6E",
+            "airline": "indigo",
+            "name": "Indigo E6-184",
+            "price": 1753,
+            "departs": 1314942180000,
+            "arrives": 1314945780000
+        }, {
+            "id": 3,
+            "airlineCode": "6E",
+            "airline": "indigo",
+            "name": "Indigo E6-189",
+            "price": 9907,
+            "departs": 1314942180000,
+            "arrives": 1314960180000
+        }]
+    },
+    "returning": {
+        "list": [{
+            "id": 10,
+            "airlineCode": "6E",
+            "airline": "indigo",
+            "name": "Indigo E6-185",
+            "price": 1753,
+            "departs": 1314942180000,
+            "arrives": 1314945780000
+        }, {
+            "id": 11,
+            "airlineCode": "SG",
+            "airline": "air",
+            "name": "Spice E6-185",
+            "price": 1953,
+            "departs": 1314924180000,
+            "arrives": 1314930780000
+        }, {
+            "id": 12,
+            "airlineCode": "IT",
+            "airline": "kf",
+            "name": "KF Red E6-185",
+            "price": 2819,
+            "departs": 1314938580000,
+            "arrives": 1314942180000
+        }, {
+            "id": 13,
+            "airlineCode": "6E",
+            "airline": "go",
+            "name": "Indigo E6-188",
+            "price": 9917,
+            "departs": 1314942180000,
+            "arrives": 1314960180000
+        }]
+    }
+
+}
